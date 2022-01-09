@@ -1,6 +1,5 @@
 ## GANG Multi Tool Menu: 
 
-# [YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=BGhO_nMjpRg&t=1s)
 ![image](https://user-images.githubusercontent.com/94531396/146171984-656da363-8e70-480c-83f4-738e5666ec03.png)
 
 
@@ -83,5 +82,5 @@ The .exe will be created in "dist" (Send that to your target)
 ![image](https://user-images.githubusercontent.com/94531396/144050106-b6a53ff9-38db-4925-a302-c16fe442fd6a.png)
 
 
-- Make sure to join my [discord](https://discord.gg/raided) and fill free to dm me @††#7777. Thanks for using GANG Multi Tool!
-- Coded / Developed by ††#7777
+- Make sure to join my [discord](https://discord.gg/qn4mHnhvHc) and fill free to dm me @⚝ T ☈ A P Ξ 𝑋 ᴱˣᴱ#6476. Thanks for using GANG Multi Tool!
+- Coded / Developed by ⚝ T ☈ A P Ξ 𝑋 ᴱˣᴱ#6476
